@@ -1,4 +1,4 @@
-package com.msa4java.edu.oop;
+package com.msa4java.edu.oop.basic;
 
 public class AccessModifier {
     // 접근 제어 지시자 : 
@@ -9,7 +9,7 @@ public class AccessModifier {
     
     // 같은 패키지 & class 내부 & 자식 클래스에서 접근 가능 
     protected int numProtected = 2;
-    rnflek rnfldjkjekjkdksjsdjkfsjklfdjklsjdk
+    
     // 클래스 내부에서만 접근 가능
     private int numPrivate = 3;
     
