@@ -15,6 +15,7 @@ public class Whale extends Mammal implements Swim {
         System.out.println("고래쪽에서 오버라이드");
     }
     
+    @Override
     public void breath() {
         System.out.println("고래쪽에서 오버라이드");
     }
