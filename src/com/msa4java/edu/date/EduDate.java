@@ -1,4 +1,4 @@
-package com.msa4java.edu.LocalDateTime;
+package com.msa4java.edu.date;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

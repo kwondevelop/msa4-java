@@ -1,4 +1,4 @@
-package com.msa4java.edu;
+package com.msa4java.edu.collection;
 
 import java.util.ArrayList;
 import java.util.Collections;
